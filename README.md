@@ -7,3 +7,4 @@ Click the link which says "Get the FastDocuments Shortcut" to add it to your Sho
 
 ***FastDocuments is only compatible with Apple devices that have the Shortcuts app.***
  
+FastDocuments has only been tested with the Mac mini M2 so it is unsure of if it works on other devices. (It should work on Macs, but I'm not sure about other devices)
